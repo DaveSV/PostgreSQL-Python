@@ -28,3 +28,11 @@ https://www.postgresqltutorial.com/postgresql-python/
  PostgreSQL:
  
  https://www.postgresql.org/
+ 
+ Configure database.ini file:
+
+[postgresql]
+host=localhost
+database=suppliers
+user=postgres
+password=SecurePas$1
