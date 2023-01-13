@@ -31,8 +31,5 @@ https://www.postgresqltutorial.com/postgresql-python/
  
  Configure database.ini file:
 
-"[postgresql]
-host=localhost
-database=suppliers
-user=postgres
-password=SecurePas$1"
+![image](https://user-images.githubusercontent.com/29576337/212303617-b8f74769-0e52-4f84-9f10-59f48dcb09c6.png)
+
