@@ -20,3 +20,7 @@ Deleting data from PostgreSQL tables in Python – show you how to delete data i
 Tutorial:
 
 https://www.postgresqltutorial.com/postgresql-python/
+
+ psycopg2 package:
+ 
+ https://pypi.org/project/psycopg2/
