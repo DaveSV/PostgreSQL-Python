@@ -24,3 +24,7 @@ https://www.postgresqltutorial.com/postgresql-python/
  psycopg2 package:
  
  https://pypi.org/project/psycopg2/
+ 
+ PostgreSQL:
+ 
+ https://www.postgresql.org/
