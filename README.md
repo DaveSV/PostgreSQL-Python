@@ -1,5 +1,7 @@
 "# PostgreSQL-Python" 
+
 Tutorial Part 1
+
 How to connect to the PostgreSQL database server in the Python program using the psycopg database adapter.
 
 ![image](https://user-images.githubusercontent.com/29576337/212293070-a409d5c2-ad78-4227-b0b0-827b28a97ca5.png)
